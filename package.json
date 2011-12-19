@@ -1,0 +1,24 @@
+{
+    "name" : "stringy",
+    "version" : "0.1.0",
+    "description" : "Extract repeated strings from your JS",
+    "main" : "./node.js",
+    "directories" : {
+        "lib" : "lib"
+    },
+    "dependencies" : {
+        "burrito" : ">=0.2.11"
+    }
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/tivac/Stringy.git"
+    },
+    "author" : {
+        "name" : "Patrick Cavit",
+        "email" : "pcavit@gmail.com",
+        "url" : "http://patcavit.com"
+    },
+    "engine" : {
+        "node" : ">=0.6.6"
+    }
+}
